@@ -1,4 +1,6 @@
 
+demo video link - https://quickshare.samsungcloud.com/jyNxVUR7GajJ
+resume link - https://drive.google.com/file/d/1jorvnKeK_XIoT7VUS8o-It6JVF4VAqlt/view?usp=drivesdk
 Iron Lady – AI Assistant Web Application 🤖✨
 
 This project is a web-based AI chatbot built for the Iron Lady platform.
