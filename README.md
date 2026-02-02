@@ -1,5 +1,5 @@
 
-demo video link - https://quickshare.samsungcloud.com/jyNxVUR7GajJ
+demo video link - https://drive.google.com/file/d/1U3UuSk4Xk-FaJw_p9rLqEqHX_RE2zO2m/view?usp=drivesdk
 resume link - https://drive.google.com/file/d/1jorvnKeK_XIoT7VUS8o-It6JVF4VAqlt/view?usp=drivesdk
 Iron Lady – AI Assistant Web Application 🤖✨
 
