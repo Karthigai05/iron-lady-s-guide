@@ -1,6 +1,6 @@
 
-demo video link - https://drive.google.com/file/d/1U3UuSk4Xk-FaJw_p9rLqEqHX_RE2zO2m/view?usp=drivesdk
-resume link - https://drive.google.com/file/d/1jorvnKeK_XIoT7VUS8o-It6JVF4VAqlt/view?usp=drivesdk
+demo video link - https://drive.google.com/file/d/1sufwvDBHjTrK-syiXPG5lv0a_Wq_Tayn/view?usp=drivesdk
+resume link - https://drive.google.com/file/d/1gB02zWO9YgZ1W8L1AjyloM8TiZUlWJVV/view?usp=drivesdk
 Iron Lady – AI Assistant Web Application 🤖✨
 
 This project is a web-based AI chatbot built for the Iron Lady platform.
